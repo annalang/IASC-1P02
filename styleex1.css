@@ -1,0 +1,16 @@
+#wrapper{
+  margin: 20px 20px 20px 20px;
+  border: green 1px dashed;
+  padding: 10px 10px 10px 10px;
+  color: pink
+}
+
+Body {
+  background-color:blue;
+  border: black 2px solid
+}
+
+.cat {
+  border: pink 2px dashed;
+  padding: 20px 20px 20px 20px;
+}
