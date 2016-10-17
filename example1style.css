@@ -1,0 +1,28 @@
+body {
+  color: white
+}
+
+#wrapper{
+  background-color: green;
+  width: 1000px;
+}
+#header{
+  width: 1000px;
+  height: 100px;
+  background-color: red;
+  text-align: center;
+}
+
+#content{
+  background-color: green;
+  width: 1000px;
+  height: 500px;
+}
+
+#footer{
+background: blue;
+width: 1000px;
+height: 100px;
+clear: both;
+
+}
