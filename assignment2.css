@@ -1,0 +1,38 @@
+.Title, .fancyfont{
+  color: teal;
+
+}
+
+.bigger{
+  font-size: 44px
+}
+
+.fancyfont{
+  font-family:"Comic Sans MS", Comic, cursive;
+}
+
+.caps{
+  text-transform: uppercase;;
+}
+
+.fixedbox {
+  position: fixed;
+  left: 350px;
+  border: teal 5px dashed;
+  margin: 5px;
+  padding: 5px;
+}
+
+.absolute{
+  position: absolute;
+  left: 400px
+}
+
+.relative{
+  position: relative;
+  left:600px;
+}
+
+h3 span {
+  background-color: orchid
+}
