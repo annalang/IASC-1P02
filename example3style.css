@@ -1,0 +1,33 @@
+
+#wrapper{
+  background-color: green;
+  width: 2000px;
+  height: 3000px
+}
+
+#blue{
+  width: 400px;
+  height: 600px;
+  background-color: blue;
+  float: left;
+margin: 200px
+}
+
+
+
+#red{
+background: red;
+width: 400px;
+height: 600px;
+float: right;
+  margin: 200px
+}
+
+#yellow{
+  background-color: yellow;
+  width: 400px;
+  height: 600px;
+  margin: 0 auto;
+  top:500px;
+  position: relative;
+  }
